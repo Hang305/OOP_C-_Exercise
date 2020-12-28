@@ -18,3 +18,13 @@ E:\LTHDT\PHANSO\phanso\obj\Debug\phanso.csproj.GenerateResource.cache
 E:\LTHDT\PHANSO\phanso\obj\Debug\phanso.csproj.CoreCompileInputs.cache
 E:\LTHDT\PHANSO\phanso\obj\Debug\phanso.exe
 E:\LTHDT\PHANSO\phanso\obj\Debug\phanso.pdb
+E:\LTHDT\PHANSO\OOP_C-_Exercise\phanso\bin\Debug\phanso.exe.config
+E:\LTHDT\PHANSO\OOP_C-_Exercise\phanso\bin\Debug\phanso.exe
+E:\LTHDT\PHANSO\OOP_C-_Exercise\phanso\bin\Debug\phanso.pdb
+E:\LTHDT\PHANSO\OOP_C-_Exercise\phanso\obj\Debug\phanso.csprojAssemblyReference.cache
+E:\LTHDT\PHANSO\OOP_C-_Exercise\phanso\obj\Debug\phanso.Form1.resources
+E:\LTHDT\PHANSO\OOP_C-_Exercise\phanso\obj\Debug\phanso.Properties.Resources.resources
+E:\LTHDT\PHANSO\OOP_C-_Exercise\phanso\obj\Debug\phanso.csproj.GenerateResource.cache
+E:\LTHDT\PHANSO\OOP_C-_Exercise\phanso\obj\Debug\phanso.csproj.CoreCompileInputs.cache
+E:\LTHDT\PHANSO\OOP_C-_Exercise\phanso\obj\Debug\phanso.exe
+E:\LTHDT\PHANSO\OOP_C-_Exercise\phanso\obj\Debug\phanso.pdb
